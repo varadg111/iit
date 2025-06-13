@@ -13,4 +13,4 @@ html2text
 tqdm
 markdown
 python-multipart
-setuptoolssource
+setuptools
