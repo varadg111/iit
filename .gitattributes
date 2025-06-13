@@ -1,4 +1,0 @@
-Knowledge.db filter=lfs diff=lfs merge=lfs -text
-*.db filter=lfs diff=lfs merge=lfs -text
-knowledge_base filter=lfs diff=lfs merge=lfs -text
-knowledge_base.db filter=lfs diff=lfs merge=lfs -text
