@@ -1,2 +1,0 @@
-# iit
-iit project
