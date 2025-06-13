@@ -11,12 +11,29 @@ __pycache__/
 
 # Ignore temp VSCode files
 tempCodeRunnerFile*
+  GNU nano 7.2           .gitignore                    # Ignore virtual environments
+.venv/
+venv/
 
+# Ignore environment files
+.env
+     [ Read 22 lines (Converted from DOS format) ]     
+^G Help      ^O Write Out ^W Where Is  ^K Cut
+^X Exit      ^R Read File ^\ Replace   ^U Paste  
 # Ignore WhatsApp image
 WhatsApp*
 
 # Ignore database files (optional)
-*.db
+
 
 # Ignore OS files
 .DS_Store
+  GNU nano 7.2           .gitignore                    # Ignore virtual environments
+.venv/
+venv/
+
+# Ignore environment files
+.env
+     [ Read 22 lines (Converted from DOS format) ]     
+^G Help      ^O Write Out ^W Where Is  ^K Cut
+^X Exit      ^R Read File ^\ Replace   ^U Paste  
