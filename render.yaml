@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: virtual-ta
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app:app --host 0.0.0.0 --port 10000
+    envVars:
+      - key: OPENAI_API_KEY
+        value: eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjIwMDQzOTFAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.bKYP2gmMWrhcqO7EPyW8JSlpy1_QDYreQ-9tsCdLjhQ
